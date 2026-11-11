@@ -1,6 +1,5 @@
 # Explorador de contenido aleatorio
 
-Integrante: Nicolás Tabora Kim.
 Materia: Programación Web III.
 
 1. ¿Qué es un endpoint y cuál utilizaste para cada API?
